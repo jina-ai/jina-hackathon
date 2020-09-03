@@ -4,5 +4,5 @@ This repo has been put together by Jina for support during the Jina X Hackathon 
 
 **Note**: This is **not** for teams to host their projects. Teams should do that on their own repo!
 
-* [FAQ](./faq.md)
+* [FAQ](./FAQ.md)
 * Got a question? [Put it here](./questions.md) or ask in the Slack group
