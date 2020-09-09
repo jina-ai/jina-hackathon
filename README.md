@@ -2,13 +2,15 @@
 
 This repo has been put together by Jina for support during the Jina X Hackathon in September 2020.
 
-**Note**: This is **not** for teams to host their projects. Teams should do that on their own repo!
+**Note**: This repo is **not** a place for teams to host their projects. Teams should do that on their own repo!
 
 * [FAQ](./FAQ.md)
 * Got a question? [Put it here](./questions.md) or ask in the Slack group
 
 ## Get Started
 
+| What                 | Where                                                                                  |
+| ---                  | ---                                                                                    |
 | Intro video          | [YouTube link](https://www.youtube.com/watch?v=Fe6K3zjujlQ)                            |
 | Overview             | Check our [README](https://github.com/jina-ai/jina/)                                   |
 | Core concepts        | [Jina 101](https://github.com/jina-ai/jina/tree/master/docs/chapters/101)              |
@@ -17,6 +19,8 @@ This repo has been put together by Jina for support during the Jina X Hackathon 
 
 ## Facing Issues?
 
+| What      | Where                              |
+| ---       | ---                                |
 | Bugs      | Post an issue in our relevant repo |
 | Questions | Post on #mentors_desk in Slack     |
 
