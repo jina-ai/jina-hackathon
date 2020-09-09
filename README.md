@@ -30,7 +30,12 @@ Your project must have these to be considered for judgement:
 
 ### `requirements.txt`
 
-All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.3`)
+All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.3`). (See the tip on `pip freeze` below)
+
+## Tips
+
+* [Work in a virtualenv](https://pythonbasics.org/virtualenv/) to stop your system-wide libraries affecting your hackathon project
+* If you're using a virtualenv, [freeze your package list with `pip freeze > requirements.txt`](https://pip.pypa.io/en/stable/reference/pip_freeze/) when you finish the project
 
 ## Contribute to Jina
 
