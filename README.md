@@ -31,3 +31,7 @@ Your project must have these to be considered for judgement:
 ### `requirements.txt`
 
 All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.3`)
+
+## Contribute to Jina
+
+Please see our [Contributor Guide](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)
