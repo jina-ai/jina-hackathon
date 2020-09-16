@@ -36,6 +36,7 @@ All projects **must** have a `requirements.txt` that lists `jina` (all lower cas
 
 * [Work in a virtualenv](https://pythonbasics.org/virtualenv/) to stop your system-wide libraries affecting your hackathon project
 * If you're using a virtualenv, [freeze your package list with `pip freeze > requirements.txt`](https://pip.pypa.io/en/stable/reference/pip_freeze/) when you finish the project
+* Are you having trouble querying through Jinabox? Try a query through `curl` instead (this is usually explained in an example's `README.md`). `curl` is a very old, very mature piece of software - if `curl` fails it's likely a Jina configuration problem (or a Jina bug!). Be sure to check the hostname and ports too!
 
 ## Contribute to Jina
 
