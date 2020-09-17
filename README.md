@@ -14,7 +14,7 @@ This repo has been put together by Jina for support during the Jina X Hackathon 
 * [FAQ](./FAQ.md)
 * Got a question? [Put it here](./questions.md) or ask in the Slack group
 
-## Learn about Jina
+## Learn About Jina
 
 | What                 | Where                                                                                  |
 | ---                  | ---                                                                                    |
@@ -37,11 +37,10 @@ Your project must have these to be considered for judgement:
 
 ### `requirements.txt`
 
-All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.3`). (See the tip on `pip freeze` below)
+All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.5`). You can do this automatically (for Jina and all your other dependencies) by running `pip freeze > requirements.txt` [More info here](https://pip.pypa.io/en/stable/reference/pip_freeze/) 
 
-## Tips
+## Troubleshooting
 
-* If you're using a virtualenv, [freeze your package list with `pip freeze > requirements.txt`](https://pip.pypa.io/en/stable/reference/pip_freeze/) when you finish the project
 * Are you having trouble querying through Jinabox? Try a query through `curl` instead (this is usually explained in an example's `README.md`). `curl` is a very old, very mature piece of software - if `curl` fails it's likely a Jina configuration problem (or a Jina bug!). Be sure to check the hostname and ports too!
 
 ## Contribute to Jina
