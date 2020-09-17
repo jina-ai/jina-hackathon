@@ -4,10 +4,17 @@ This repo has been put together by Jina for support during the Jina X Hackathon 
 
 **Note**: This repo is **not** a place for teams to host their projects. Teams should do that on their own repo!
 
+## You need to know this!!!
+
+* Use [Jina 0.5.5](https://pypi.org/project/jina/0.5.5/)
+* Use Python 3.7 or 3.8
+* On Windows? Use [Virtualbox](https://www.virtualbox.org/) and install [Ubuntu 20.04](https://releases.ubuntu.com/20.04/) to use Jina. [[How do install Ubuntu on Virtualbox?](https://www.youtube.com/watch?v=x5MhydijWmc)]
+* Use a [virtual environment](https://pythonbasics.org/virtualenv/) when developing anything in Python to avoid library conflicts.
+
 * [FAQ](./FAQ.md)
 * Got a question? [Put it here](./questions.md) or ask in the Slack group
 
-## Get Started
+## Learn about Jina
 
 | What                 | Where                                                                                  |
 | ---                  | ---                                                                                    |
@@ -34,7 +41,6 @@ All projects **must** have a `requirements.txt` that lists `jina` (all lower cas
 
 ## Tips
 
-* [Work in a virtualenv](https://pythonbasics.org/virtualenv/) to stop your system-wide libraries affecting your hackathon project
 * If you're using a virtualenv, [freeze your package list with `pip freeze > requirements.txt`](https://pip.pypa.io/en/stable/reference/pip_freeze/) when you finish the project
 * Are you having trouble querying through Jinabox? Try a query through `curl` instead (this is usually explained in an example's `README.md`). `curl` is a very old, very mature piece of software - if `curl` fails it's likely a Jina configuration problem (or a Jina bug!). Be sure to check the hostname and ports too!
 
