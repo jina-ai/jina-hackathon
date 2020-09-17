@@ -39,7 +39,7 @@ Your project must have these to be considered for judgement:
 
 All projects **must** have a `requirements.txt` that lists `jina` (all lower case), preferably with the version you are using (e.g. `jina==0.5.5`). 
 
-You can do this automatically (for Jina and all your other dependencies) by running `pip freeze > requirements.txt` [[More info here](https://pip.pypa.io/en/stable/reference/pip_freeze/)]
+If you're in a virtual environment, you can do this automatically (for Jina and all your other dependencies) by running `pip freeze > requirements.txt` [[More info here](https://pip.pypa.io/en/stable/reference/pip_freeze/)]
 
 ## Troubleshooting
 
