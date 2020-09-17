@@ -8,7 +8,7 @@ This repo has been put together by Jina for support during the Jina X Hackathon 
 
 * Use [Jina 0.5.5](https://pypi.org/project/jina/0.5.5/)
 * Use Python 3.7 or 3.8
-* On Windows? Use [Virtualbox](https://www.virtualbox.org/) and install [Ubuntu 20.04](https://releases.ubuntu.com/20.04/) to use Jina. [[How do install Ubuntu on Virtualbox?](https://www.youtube.com/watch?v=x5MhydijWmc)]
+* On Windows? Use [Virtualbox](https://www.virtualbox.org/) and install [Ubuntu 20.04](https://releases.ubuntu.com/20.04/) to use Jina. [[How do I install Ubuntu on Virtualbox?](https://www.youtube.com/watch?v=x5MhydijWmc)]
 * Use a [virtual environment](https://pythonbasics.org/virtualenv/) when developing anything in Python to avoid library conflicts.
 
 * [FAQ](./FAQ.md)
