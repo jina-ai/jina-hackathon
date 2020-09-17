@@ -43,7 +43,7 @@ If you're in a virtual environment, you can do this automatically (for Jina and 
 
 ## Troubleshooting
 
-* Are you having trouble querying through Jinabox? Try a query through `curl` instead (this is usually explained in an example's `README.md`). `curl` is a very old, very mature piece of software - if `curl` fails it's likely a Jina configuration problem (or a Jina bug!). Be sure to check the hostname and ports too!
+* Are you having trouble querying through Jinabox? Try a query through `curl` instead (an example `curl` command is often given in an example's `README`). `curl` is a very old, very mature piece of software - if `curl` fails it's likely a Jina configuration problem (or a Jina bug!). Be sure to check the hostname and ports too!
 
 ## Contribute to Jina
 
